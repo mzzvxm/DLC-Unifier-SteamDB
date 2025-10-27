@@ -6,7 +6,7 @@
 
 Este é um **UserScript** simples, porém poderoso, que aprimora a experiência de coleta de links de **Downloadable Content (DLC)** diretamente no [SteamDB](https://steamdb.info/), ajudando usuários do SteamTools, por exemplo.
 
-Ele adiciona uma caixa de ferramentas na aba **DLC** de qualquer página de aplicação do SteamDB, permitindo que você **unifique, copie e arraste** todos os links de DLC listados para ferramentas externas como o [SteamTools](https://steam.tools/dlc/) ou gerenciadores de download (ex: JDownloader).
+Ele adiciona uma caixa de ferramentas na aba **DLC** de qualquer página de aplicação do SteamDB, permitindo que você **unifique, copie e arraste** todos os links de DLC listados para ferramentas externas como o [SteamTools](https://steamtools.net/) ou gerenciadores de download (ex: JDownloader).
 
 ### Funcionalidades
 
